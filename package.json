@@ -1,0 +1,19 @@
+{
+  "name": "iot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "azure-iot-device": "^1.16.0",
+    "azure-iot-device-mqtt": "^1.14.1",
+    "azure-maps-rest": "^2.0.5",
+    "chalk": "^4.1.0",
+    "dotenv": "^8.2.0"
+  }
+}
